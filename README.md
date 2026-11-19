@@ -1,0 +1,1 @@
+# Smart-Motion-Detection-and-Alert-System-for-Soldiers
